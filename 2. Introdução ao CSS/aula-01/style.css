@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+  background-color:rosybrown;
+}
+
+h1 {
+  font-family:monospace;
+  color: goldenrod;
+  font-size: 60px;  
+  text-align: center;
+}
+
+h2 {
+  color: bisque;
+  font-family: monospace;
+  text-indent: 25px;  
+}
+
+p {
+  text-transform: uppercase;
+}
+
+#daniela {
+  text-transform: lowercase;
+}
+
+#laura {
+  text-transform: capitalize;
+}

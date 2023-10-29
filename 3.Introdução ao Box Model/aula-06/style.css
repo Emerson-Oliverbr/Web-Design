@@ -1,0 +1,35 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    width: 50%;
+    background-color:#ccc;
+}
+
+h1 {
+    border: 2px solid red;
+    width: 25%;
+}
+
+a {
+    padding: 25px;
+    background-color: yellow;
+    display: inline-block; /* Junta os 2 valores inline e block, Permite usar propriedades do box-model  */
+}
+
+strong {
+    padding: 25px;
+    background-color: antiquewhite;
+    display: block;
+}
+
+b {
+    display:inline;
+    visibility: hidden; /* Remove a tag mas preserva o "ESPAÇO" */
+}
+/*
+b {
+    display: none; display:none "Remove a tag do documento
+}
+*/

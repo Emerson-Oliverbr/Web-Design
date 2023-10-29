@@ -1,0 +1,23 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    width: 500px;
+    background-color:#ccc;
+}
+
+.paragrafo1 {
+    padding: 25px;
+}
+
+.paragrafo2 {
+    padding: 25px;
+    border: 10px solid green;
+}
+
+.paragrafo3 {
+    padding: 25px;
+    border: 10px solid green;
+    box-sizing: border-box;
+}

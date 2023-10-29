@@ -1,0 +1,16 @@
+body {
+  background-color:bisque;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  color: blue;
+}
+
+.paragrafo-1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
